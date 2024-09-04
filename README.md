@@ -1,6 +1,6 @@
 Guest Page CRUD Example
 
-Welcome to the Guest Page CRUD Example! This project is a demonstration of basic CRUD (Create, Read, Update, Delete) operations using PHP, Bootstrap, and HTML. It's designed to illustrate fundamental concepts in web development and database management.
+This project is a demonstration of basic CRUD (Create, Read, Update, Delete) operations using PHP, Bootstrap, and HTML. It's designed to illustrate fundamental concepts in web development and database management.
 
 Overview
 
